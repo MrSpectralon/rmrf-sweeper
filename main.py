@@ -1,4 +1,7 @@
 import pygame
+import platform
+
+print(platform.platform())
 
 # Initialize Pygame
 pygame.init()
