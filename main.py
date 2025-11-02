@@ -5,7 +5,7 @@ pygame.init()
 
 # Set up the game window
 screen = pygame.display.set_mode((400, 300))
-pygame.display.set_caption("Hello Pygame")
+pygame.display.set_caption("Minesweeper")
 
 # Game loop
 running = True
